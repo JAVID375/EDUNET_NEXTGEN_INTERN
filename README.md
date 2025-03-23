@@ -34,17 +34,4 @@ npm i
 npm start
 ```
 
-## Screenshot
-
-2. Add Recipe Page <br>
-   <img src="./screenshots/8-Add-Recipe-1.png" width="540"/>
-3. Detail Recipe Page <br>
-   <img src="./screenshots/5-Detail-Recipe-edit.png" width="540"/>
-   <img src="./screenshots/6-Detail-Recipe-edit.png" width="540"/>
-   <img src="./screenshots/7-Video-Recipe-edit.png" width="540"/>
-4. Profile Page <br>
-   <img src="./screenshots/9-Profile-edit.png" width="540"/>
-5. Login Page <br>
-   <img src="./screenshots/10-Login-edit.png" width="540"/>
-6. Register Page <br>
-   <img src="./screenshots/11-Register-edit.png" width="540"/>
+## THIS IS ONLY FRONTEND.
